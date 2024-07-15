@@ -31,8 +31,8 @@ The dataset used is `spotify_millsongdata.csv` which contains information about 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/ABo-EsMaiL/Music-Recommender-System.git
-    cd Music-Recommender-System
+    git clone https://github.com/ABo-EsMaiL/CodeAlpha_Music_Recommender_System.git
+    cd CodeAlpha_Music_Recommender_System
     ```
 
 2. Install the required libraries:
