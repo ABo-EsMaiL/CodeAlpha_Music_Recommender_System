@@ -65,7 +65,7 @@ This project is licensed under the MIT License.
 
 ## **`Using`**
 
-![predict1](image.png)
-![predict2](image-1.png)
-![predict3](image-2.png)
-![predoct4](image-3.png)
+![image](https://github.com/user-attachments/assets/33ee244d-498e-46b4-b65f-7b764b30bc99)
+![image-1](https://github.com/user-attachments/assets/35813b66-1714-42c6-9da4-ee37b630f1ae)
+![image-2](https://github.com/user-attachments/assets/bed25f42-4b72-4a44-8426-df70b62f7889)
+![image-3](https://github.com/user-attachments/assets/25a0d54d-5767-459f-8766-f2a8e49539b2)
