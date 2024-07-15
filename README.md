@@ -16,7 +16,7 @@ The dataset used is `spotify_millsongdata.csv` which contains information about 
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - Libraries:
   - numpy
   - pandas
